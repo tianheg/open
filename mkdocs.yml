@@ -2,4 +2,21 @@ site_name: Open
 
 theme:
   name: material
+  features:
+    - search.suggest
+    - search.highlight
+    - header.autohide
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+  include_search_page: true
+  search_index_only: true
 
+plugins:
+  - search:
+      lang:
+        - ja
+
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
