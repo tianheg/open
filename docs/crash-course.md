@@ -126,3 +126,70 @@ Bmp 文件：存储图片。
 碎片、碎片整理
 
 ## Compression
+
+压缩方法：
+
+1. Run-Length Encoding(Lossless compression)
+2. Dictionary coders - Using more compact representation(Lossless compression)
+
+这两种方法经常组合使用。
+
+高效编码——Huffman Tree：概率
+
+<figure markdown>
+![Huffman Tree](./img/huffman-true.png){ loading=lazy }
+<figcaption>Huffman Tree</figcaption>
+</figure>
+
+有损压缩：压缩音频、图像压缩，比如，mp3、jpeg
+
+无损压缩格式：音频：wav、flac；图像：png、gif、pdf、zip
+
+视频的 Temporal Redundancy
+
+有损压缩视频格式：MPEG-4。
+
+## Keyboards & Command Line Interfaces
+
+QWERTY 键盘布局
+
+键盘的转换成本。
+
+## Screens & 2D Graphics
+
+阴极射线管 Cathode Ray Tubes
+
+通过以上技术，有两种绘制图形的方法：
+
+1. 矢量扫描：引导电子束描绘出形状
+2. 光栅扫描：按固定路径，一行一行扫描
+
+液晶显示器 Liquid Crystal Displays
+
+character generator 字符生成器——第一代显卡
+
+计算机把像素数据存在内存中一个特殊区域叫“帧缓冲区”。早期时，这些数据存在内存里，后来存在高速视频内存，简称 VRAM。VRAM 在显卡上。
+
+## The Cold War & Consumerism
+
+## The Personal Computer Revolution
+
+IBM 的肮脏 12 人，引起了一系列创新。
+
+## Graphical User Interfaces
+
+> 增强人类智能 Augmenting human intellect
+>
+> Engelbart
+
+## 3D Graphics
+
+3D 投影
+
+Wireframe Rendering
+
+Scanline Rendering
+
+Antialiasing 抗锯齿
+
+表面法线
