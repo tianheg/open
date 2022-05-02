@@ -3,12 +3,13 @@ site_name: Open
 theme:
   name: material
   features:
-    - search.suggest
-    - search.highlight
     - header.autohide
     - navigation.instant
     - navigation.tracking
     - navigation.top
+    - navigation.tabs
+    - search.highlight
+    - search.suggest
   include_search_page: true
   search_index_only: true
 
@@ -22,3 +23,20 @@ markdown_extensions:
       custom_checkbox: true
   - attr_list
   - md_in_html
+
+nav:
+  - Classes:
+    - index.md
+    - CS Crash Course: cs-crash-course.md
+    - Learning How to Learn: learning-how-to-learn.md
+    - 批判性思维1: critical-thinking-0.md
+    - 批判性思维2: critical-thinking-1.md
+    - 批判性思维3: critical-thinking-2.md
+    - 批判性思维4: critical-thinking-3.md
+    - 红楼梦: dream-of-the-red-chamber.md
+    - 从爱因斯坦到霍金的宇宙: einstein-to-hawking.md
+    - 影视鉴赏: film-appreciation.md
+    - 数学的思维方式与创新: math-think-innovate.md
+    - 积极心理学: positive-psychology-by-tal-ben-shahar.md
+  - Tools:
+    - tools/index.md
