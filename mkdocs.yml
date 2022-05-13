@@ -1,4 +1,6 @@
 site_name: Open
+repo_name: tianheg/open
+repo_url: https://github.com/tianheg/open
 edit_uri: edit/main/docs/
 
 theme:
