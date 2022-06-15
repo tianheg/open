@@ -27,17 +27,18 @@ markdown_extensions:
 nav:
   - Classes:
     - index.md
-    - CS Crash Course: cs-crash-course.md
-    - Learning How to Learn: learning-how-to-learn.md
-    - 批判性思维1: critical-thinking-0.md
-    - 批判性思维2: critical-thinking-1.md
-    - 批判性思维3: critical-thinking-2.md
-    - 批判性思维4: critical-thinking-3.md
-    - 红楼梦: dream-of-the-red-chamber.md
-    - 从爱因斯坦到霍金的宇宙: einstein-to-hawking.md
-    - 影视鉴赏: film-appreciation.md
-    - 数学的思维方式与创新: math-think-innovate.md
-    - 积极心理学: positive-psychology-by-tal-ben-shahar.md
+    - 思维能力:
+      - Learning How to Learn-Barbara Oakley: learning-how-to-learn.md
+      - 批判性思维-谷振诣: critical-thinking.md
+    - 人文修养:
+      - 红楼梦-欧丽娟: dream-of-the-red-chamber.md
+      - 影视鉴赏-张晓敏: film-appreciation.md
+    - 科技博览:
+      - 从爱因斯坦到霍金的宇宙-赵峥: einstein-to-hawking.md
+      - 数学的思维方式与创新-丘维声: math-think-innovate.md
+      - 积极心理学-Tal Ben-Shahar: positive-psychology-by-tal-ben-shahar.md
+    - 专业技术:
+      - CS Crash Course-Carrie Anne: cs-crash-course.md
   - Tools:
-    - tools/index.md
+    - tools.md
     - Shell: shell.md
