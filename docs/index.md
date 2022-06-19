@@ -8,3 +8,4 @@
 - [ ] [数学的思维方式与创新-丘维声](https://www.bilibili.com/video/BV1Gt411G7L2)
 - [ ] [积极心理学-Tal Ben-Shahar](https://www.bilibili.com/video/BV1kx411S7ZU)
 - [x] [Crash Course: Computer Science-Carrie Anne](https://www.bilibili.com/video/BV1EW411u7th) &bull; [Youtube](https://youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
+- [ ] 哈佛大学公开课：公正，该如何做是好？ https://www.bilibili.com/video/BV1zt411U7JA
