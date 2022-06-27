@@ -44,3 +44,4 @@ nav:
   - Tools:
     - tools.md
     - Shell: shell.md
+    - Shell Tools: shell-tools.md
