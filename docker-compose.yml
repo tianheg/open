@@ -1,0 +1,10 @@
+version: '3.9'
+
+services:
+  open:
+    image: squidfunk/mkdocs-material
+    container_name: open
+    volumes:
+      - '$PWD:/docs'
+    ports:
+      - '8000:8000'
